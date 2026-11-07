@@ -1,4 +1,4 @@
-# pocketful
+# Pocketful Finance
 
 A responsive personal finance dashboard with real username/password accounts, private per-user finance records, and a sample-data demo mode. Create an account or sign in to access the dashboard.
 
